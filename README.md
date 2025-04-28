@@ -6,6 +6,12 @@ This is the final project for the *PIC* subject in 11th grade, semester 3.
 The project is a simple digital library system built using **PHP** for the backend and **Tailwind CSS** for the user interface.
 
 ## 🖼️ Preview
+
+### Sign Up Form
+![image](https://github.com/user-attachments/assets/cab5b76e-3de7-4f2e-a3ff-d2220605228e)
+
+
+### Sign in Form
 ![Screenshot 2025-04-28 155457](https://github.com/user-attachments/assets/e693d7d5-3495-437a-8184-314147db8a81)
 
 
