@@ -9,7 +9,6 @@ The project is a simple digital library system built using **PHP** for the backe
 
 ## Home Page (As a Member)
 ![image](https://github.com/user-attachments/assets/1c9c09d9-55fa-435b-baec-f0be642cfbb6)
-![image](https://github.com/user-attachments/assets/825fc368-8c4e-4bc3-a559-4fec32c1cf28)
 ![image](https://github.com/user-attachments/assets/dbad4ae8-6ef8-43f8-9499-bb9873694478)
 ![image](https://github.com/user-attachments/assets/285678e3-c207-4062-9ee6-ce5e77b6ebd0)
 
