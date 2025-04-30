@@ -1,11 +1,11 @@
-# 📚 Digital Library System  
+# Digital Library System  
 Final Project for PIC Subject | 11th Grade Semester 3
 
-## 📌 Project Description
+## Project Description
 This is the final project for the *PIC* subject in 11th grade, semester 3.  
 The project is a simple digital library system built using **PHP** for the backend and **Tailwind CSS** for the user interface.
 
-## 🖼️ Preview
+## Preview
 
 ## Home Page (As a Member)
 ![image](https://github.com/user-attachments/assets/1c9c09d9-55fa-435b-baec-f0be642cfbb6)
@@ -38,17 +38,17 @@ The project is a simple digital library system built using **PHP** for the backe
 
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **PHP** (Pure PHP without a framework)
 - **Tailwind CSS** (Utility-first CSS framework)
 - **MySQL** (Database to store books and users data)
 
-## ✨ Main Features
+## Main Features
 - 📚 Digital book collection
 - ➕ Add, edit, and delete books (CRUD)
 - 📄 Book borrowing and returning system
 
-## ⚙️ How to Run
+## How to Run
 1. Clone this repository:
    ```
    gh repo clone Galang6sa/Web-Sistem-Perpustakaan-PHP
@@ -58,9 +58,9 @@ The project is a simple digital library system built using **PHP** for the backe
 4. Open your browser and navigate to `localhost/folder-name/`.
 5. Start using the web!
 
-## 🙌 Contributions
+## Contributions
 This project was developed collaboratively as a group assignment for final evaluation purposes.
 Feedback and suggestions are welcome for future improvements!
 
-## 📜 License
+## License
 This project was created for educational purposes only.  
