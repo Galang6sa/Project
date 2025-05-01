@@ -1,7 +1,7 @@
 # Digital Library System  
 Final Project for PIC Subject | 11th Grade Semester 3
 
-## Project Description
+## Description
 This is the final project for the *PIC* subject in 11th grade, semester 3.  
 The project is a simple digital library system built using **PHP** for the backend and **Tailwind CSS** for the user interface.
 
